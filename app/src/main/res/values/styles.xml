@@ -1,0 +1,5 @@
+<resources>
+<style name="AldaTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+<item name="colorPrimary">#00C98A</item><item name="colorPrimaryVariant">#008B61</item><item name="colorSecondary">#45E6B1</item>
+<item name="android:statusBarColor">#07130F</item><item name="android:navigationBarColor">#07130F</item><item name="android:windowLightStatusBar">false</item>
+</style></resources>
